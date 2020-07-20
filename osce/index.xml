@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osces on EyeDelve</title>
+    <link>https://eyedelve.app/osce/</link>
+    <description>Recent content in Osces on EyeDelve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eyedelve.app/osce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCE - About</title>
+      <link>https://eyedelve.app/osce/about/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCE - Drugs</title>
+      <link>https://eyedelve.app/osce/drugs/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/drugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCE - Instruments</title>
+      <link>https://eyedelve.app/osce/instruments/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/instruments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCE - Miscellaneous</title>
+      <link>https://eyedelve.app/osce/miscellaneous/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCE - Oculoplasty</title>
+      <link>https://eyedelve.app/osce/oculoplasty/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/oculoplasty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCE - Pathology</title>
+      <link>https://eyedelve.app/osce/pathology/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/pathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCE - Pediatric</title>
+      <link>https://eyedelve.app/osce/pediatric/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/pediatric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCE - Retina</title>
+      <link>https://eyedelve.app/osce/retina/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eyedelve.app/osce/retina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
